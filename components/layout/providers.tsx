@@ -13,7 +13,7 @@ export default function Providers({
     <>
       <ThemeProvider
         attribute="class"
-        defaultTheme="system"
+        defaultTheme="purple-dark"
         themes={['light', 'dark', 'purple', 'purple-dark']}
         enableSystem
       >
