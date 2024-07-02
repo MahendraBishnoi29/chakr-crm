@@ -54,6 +54,10 @@ GITHUB_SECRET=c234c35360ddc6a343dabd6bc95bf9678b291029
 
 You should now be able to access the application at http://localhost:3000.
 
+### NOTE:
+
+I was only able to spend 6 to 7 Hours becuase of i was travelling at the i recieved the assignment mail.
+
 ## Adding Few Images Here
 
 ![Screenshot (9)](https://github.com/AnswerOverflow/AnswerOverflow/assets/74294202/0df7779f-6e3f-4613-95ef-eb90b9cf1ef3)
