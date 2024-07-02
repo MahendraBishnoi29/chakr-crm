@@ -25,13 +25,11 @@ Tech Stack & Tools :
 
 ## Pages
 
-| Pages                     | Specifications                                                                                            |
-| :------------------------ | :-------------------------------------------------------------------------------------------------------- | --- |
-| **http://localhost:3000** | Authentication with **NextAuth** supports login with GitHub and email logins(Enter dummy email for demo). |     |
-| **People**                | Tanstack tables with server side searching, pagination etc).                                              |
-| **Profile**               | Mutistep dynamic forms using react-hook-form and zod for form validation.                                 |
-| **Kanban Board**          | A Drag n Drop task management board with dnd-kit and zustand to persist state locally.                    |
-| **Not Found**             | Not Found Page Added in the root level -                                                                  |
+- / or localhost:3000 is Authentication page which supports NextAuth login with GitHub and email logins (Enter dummy email for demo)
+- People page uses Tanstack tables with server side searching, pagination etc.
+- Profile page has Mutistep dynamic forms using react-hook-form and zod for form validation
+- Kanban Board page is a Drag n Drop task management board with dnd-kit and zustand to persist state locally
+- Not Found page is added in the root level
 
 ## Getting Started
 
